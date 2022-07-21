@@ -1,0 +1,698 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"repulse"
+			],
+			[
+				"A",
+				"App-logo"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"on",
+				"onButtonSubmit"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"r",
+				"React"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"part",
+				"Particles"
+			],
+			[
+				"c",
+				"className"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"se",
+				"searchfield"
+			],
+			[
+				"Sc",
+				"Scroll"
+			],
+			[
+				"cls",
+				"className"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ro",
+				"robot"
+			],
+			[
+				"fil",
+				"filteredRobots"
+			],
+			[
+				"sear",
+				"searchChange"
+			],
+			[
+				"ser",
+				"onSearchChange"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"C",
+				"CardList"
+			],
+			[
+				"Car",
+				"CardList"
+			],
+			[
+				"card",
+				"CardComponent"
+			],
+			[
+				"CA",
+				"CardList"
+			],
+			[
+				"s",
+				"cursive"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"Front",
+				"Front-End"
+			],
+			[
+				"sea",
+				"searchChange"
+			],
+			[
+				"Ca",
+				"CardList"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"color",
+				"color1"
+			],
+			[
+				"col",
+				"color2"
+			],
+			[
+				"colo",
+				"color1"
+			],
+			[
+				"ta",
+				"text-align\tproperty"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"user",
+				"userNameprompt"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"gr",
+				"grid-row\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"grid",
+				"grid-template-columns"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fe",
+				"flex-start\tjustify-content"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"b",
+				"border-bottom"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"bot",
+				"button\tTag"
+			],
+			[
+				"a",
+				"crosshair\tcursor"
+			],
+			[
+				"w",
+				"row-resize\tcursor"
+			],
+			[
+				"h",
+				"inherit\tcursor"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"un",
+				"unset\ttext-decoration"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"l",
+				"list-style"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"g",
+				"rgba()\tbackground-color"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"term",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"vie",
+				"View Package File"
+			],
+			[
+				"termin",
+				"Terminus Utilities: Generate User Theme"
+			],
+			[
+				"termi",
+				"Terminus: Reset"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"te",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"open termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"open",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"open ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"open paca",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"vfp",
+				"View Package File"
+			],
+			[
+				"terminu",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"open termina",
+				"Terminal: Open"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"termin o",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/particles.json",
+		"/C/Users/ACER/Downloads/particles (1).json",
+		"/C/Users/ACER/Downloads/particles.json",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/components/Rank/Rank.js",
+		"/C/Users/ACER/Desktop/PORTFOLIO/simplefolio/package.json",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/index.css",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/App.js",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/components/ImageLinkForm/ImageLinkForm.js",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/components/Logo/Logo.js",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/components/ImageLinkForm/ImageLinkForm.css",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/RESEARCH.txt",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/components/Navigation/Navigation.js",
+		"/C/Users/ACER/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/ACER/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/ACER/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ACER/Desktop/My PROJECT/Register.html",
+		"/C/Users/ACER/Desktop/PORTFOLIO/simplefolio/src/template.html",
+		"/C/Users/ACER/node_modules/debug/package.json",
+		"/C/Users/ACER/Desktop/seracher/src/App.css",
+		"/C/Users/ACER/Desktop/seracher/src/App.js",
+		"/C/Users/ACER/Desktop/seracher/src/krists-luhaers-AtPWnYNDJnM-unsplash.jpg",
+		"/C/Users/ACER/Desktop/PORTFOLIO/simplefolio/src/style/sections/_hero.scss",
+		"/C/Users/ACER/Desktop/PORTFOLIO/simplefolio/src/style/sections/_projects.scss",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/package.json",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/App.css",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/index.js",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/components/Logo/Logo.css",
+		"/C/Users/ACER/Desktop/facerecognitionbrain/src/components/Logo.js",
+		"/C/Users/ACER/Desktop/New ROBO/robofriends/src/containers/App.js",
+		"/C/Users/ACER/Desktop/New ROBO/robofriends/package.json",
+		"/C/Users/ACER/Desktop/New ROBO/robofriends/src/components/ErrorBoundry.js",
+		"/C/Users/ACER/Desktop/robofriends/src/containers/App.js",
+		"/C/Users/ACER/Desktop/robofriends/src/index.js",
+		"/C/Users/ACER/Desktop/robofriends/src/components/Card.js",
+		"/C/Users/ACER/Desktop/robofriends/src/components/CardList.js",
+		"/C/Users/ACER/Desktop/robofriends/src/Scroll.js",
+		"/C/Users/ACER/Desktop/robofriends/src/Card.js",
+		"/C/Users/ACER/Desktop/robofriends/src/App.js",
+		"/C/Users/ACER/Desktop/robofriends/src/App.css",
+		"/C/Users/ACER/Desktop/Background Generator/index.html",
+		"/C/Users/ACER/Desktop/energy/package.json",
+		"/C/Users/ACER/Desktop/robofriends/package-lock.json",
+		"/C/Users/ACER/Desktop/Background Generator/style.css",
+		"/C/Users/ACER/Desktop/energy/index.html",
+		"/C/Users/ACER/Desktop/stylee2.css",
+		"/C/Users/ACER/Desktop/robofriends/src/index.css",
+		"/C/Users/ACER/Desktop/robofriends/src/CardList.js",
+		"/C/Users/ACER/Desktop/robofriends/src/SearchBox.js",
+		"/C/Users/ACER/AppData/Local/Temp/Temp1_sega-logo-font-cufonfonts-webfont.zip/style.css",
+		"/C/Users/ACER/Desktop/robofriends/public/index.html",
+		"/C/Users/ACER/Desktop/robofriends/src/robots.js",
+		"/C/Users/ACER/Documents/Udemy - The Complete Web Developer in 2020 Zero to Mastery/19. React.js + Redux/9.1 robots.js.js",
+		"/C/Users/ACER/Desktop/robofriends/src/Hello.css",
+		"/C/Users/ACER/Desktop/robofriends/src/Hello.js",
+		"/C/Users/ACER/augmentedfriends/package.json",
+		"/C/Users/ACER/Desktop/augmentedreality/src/App.js",
+		"/C/Users/ACER/Desktop/augmentedreality/src/reportWebVitals.js",
+		"/C/Users/ACER/Desktop/augmentedreality/src/index.js",
+		"/C/Users/ACER/Desktop/ZTMBoard/ZtM-Job-Board/Submissions/Radiostranger.json",
+		"/C/Users/ACER/Desktop/20211021_201450.jpg",
+		"/C/Users/ACER/Desktop/augmentedreality/src/SearchBox.js",
+		"/C/Users/ACER/Desktop/augmentedreality/src/CardList.js",
+		"/C/Users/ACER/Desktop/augmentedreality/src/Card.js",
+		"/C/Users/ACER/Desktop/augmentedreality/src/robots.js",
+		"/C/Users/ACER/Desktop/PORTFOLIO/simplefolio/src/index.js",
+		"/C/Users/ACER/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/ACER/Desktop/augmentedreality/package.json",
+		"/C/Users/ACER/Desktop/robofiends/src/index.js",
+		"/C/Users/ACER/Desktop/robofiends/package.json",
+		"/C/Users/ACER/Desktop/robofiends/public/index.html",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/19. React.js + Redux/9.1 robots.js.js",
+		"/C/Users/ACER/Desktop/robofriends/src/card.js",
+		"/C/Users/ACER/Desktop/robofriends/package.json",
+		"/C/Users/ACER/Desktop/hacktojuly/CSS-Art/package.json",
+		"/C/Users/ACER/Desktop/My PROJECT/MDCLC/MDCLC/OYO.html",
+		"/C/Users/ACER/Desktop/My PROJECT/MDCLC/MDCLC/MDCLC.css",
+		"/C/Users/ACER/Desktop/energy/main.d8e0d294.css",
+		"/C/Users/ACER/Desktop/My PROJECT/MDCLC/OYO.html",
+		"/C/Users/ACER/Desktop/My PROJECT/MDCLC/MDCLC(home).html",
+		"/C/Users/ACER/Desktop/Background Generator/script.js",
+		"/C/Users/ACER/Desktop/My PROJECT/MDCLC/5 index.html.html",
+		"/C/Users/ACER/Desktop/firtsJS.html",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/15.1 exercise6.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/17.1 exerciseES7.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/24.1 advanced-looping-solution.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/24.2 advanced-looping-exercise.js.js",
+		"/C/Users/ACER/Desktop/styl3.js",
+		"/C/Users/ACER/Desktop/My PROJECT/1ndex.html",
+		"/C/Users/ACER/Desktop/My PROJECT/another web.html",
+		"/C/Users/ACER/Desktop/My PROJECT/stylee.css",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/15.2 exercise6 SOLUTIONS.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/10.1 exercise5.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/8.1 exercise4.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/8.1 exercise4-SOLUTIONS.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/6.1 exercise3.js.js",
+		"/C/Users/ACER/Desktop/Background Generator/91script.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/2.1 exercise1.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/4.2 exercise2-SOLUTIONS.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/4.1 exercise2.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/2.1 exercise1-SOLUTIONS.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/12. DOM Manipulation/9.1 script.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/12. DOM Manipulation/9.3 style.css.css",
+		"/C/Users/ACER/Desktop/SECOND PROJECT/9.1 project-start.zip/project-start/style.css",
+		"/C/Users/ACER/Desktop/SECOND PROJECT/9.1 project-start.zip/project-start/index.html",
+		"/C/Users/ACER/Desktop/SECOND PROJECT/animal shortcut/3.1 style.css.css",
+		"/C/Users/ACER/Desktop/SECOND PROJECT/animal shortcut/3.2 index.html.html",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/16.1 exercise7 SOLUTIONS.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/16.1 exercise7.txt.txt",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/14.1 exercise6-SOLUTIONS.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/12.1 exercise5 SOLUTIONS.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/12.2 exercise5 SOLUTIONS.js.js",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/9.1 exercise4.txt.txt",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/9.1 exercise4-SOLUTIONS.txt.txt",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/6.1 exercise2.txt.txt",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/6.1 exercise2 SOLUTIONS.txt.txt",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/6.2 exercise2.txt.txt",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/4.1 exercise1 SOLUTIONS.txt.txt",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/4.1 exercise1.txt.txt",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/9. CSS Grid + CSS Layout/3.2 index.html.html",
+		"/C/Users/ACER/Desktop/My PROJECT/images/OYO.html",
+		"/C/Users/ACER/Desktop/SECOND PROJECT/Animate.css",
+		"/C/Users/ACER/Desktop/SECOND PROJECT/Animate.html",
+		"/C/Users/ACER/Desktop/My PROJECT/images/newer project/5style.css.css",
+		"/C/Users/ACER/Desktop/My PROJECT/images/newer project/5 index.html.html",
+		"/C/Users/ACER/AppData/Local/Temp/Temp1_animate.css-main.zip/animate.css-main/animate.min.css",
+		"/C/Users/ACER/Documents/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/8. Bootstrap 4, Templates, And Building Your Startup Landing Page/5.2 index.html.html",
+		"/C/Users/ACER/Desktop/My PROJECT/images/MDCLC(home).html",
+		"/C/Users/ACER/Desktop/My PROJECT/images/pctures/Animate.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
